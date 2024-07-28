@@ -29,8 +29,7 @@
 <hr>
 👯 I’m looking to collaborate on MERN Stack Projects
 
-📫 How to reach me: smarika.malviya2021@vitbhopal.ac.in
-
+📫 How to reach me: malviyasmarika@gmail.com
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
 
