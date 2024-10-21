@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Smarika Malviya</h1>
-<h3 align="center">A Pre-final year student at VIT Bhopal | MERN Stack Developer</h3>
+<h3 align="center">A Final year student at VIT Bhopal | Full Stack Developer</h3>
 </p>
 
   
