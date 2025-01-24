@@ -48,7 +48,7 @@
 <hr>
 <h3 align="left">💡 Leetcode Statistics:</h3>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=smarika17&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/smarika17?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 
 <hr>
