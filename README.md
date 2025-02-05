@@ -27,7 +27,7 @@
 
 </p>
 <hr>
-👯 I’m looking to collaborate on MERN Stack Projects
+👯 I’m looking to collaborate on FullStack Projects
 
 📫 How to reach me: malviyasmarika@gmail.com
 <hr>
