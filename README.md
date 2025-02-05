@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smarika Malviya</h1>
-<h3 align="center">A Fullstack Developer with a passion for problem-solving. Whether it's tackling complex challenges, engaging in tech discussions, or even 3 AM debugging sessions, I’m always open to learning and growing. With strong communication, management, and presentation skills, I enjoy building communities and collaborating to create impactful solutions.</h3>
+<h3 align="center">A Fullstack Developer with a passion for problem-solving. Whether it's tackling complex challenges, engaging in tech discussions, or even 3 AM debugging sessions, I’m always open to learning and growing. I love designing efficient systems, optimizing code for performance, and exploring emerging technologies. Beyond coding, I enjoy building communities, mentoring aspiring developers, and collaborating to create impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarika17&label=Profile%20views&color=0e75b6&style=flat" alt="smarika17" /> </p>
 
